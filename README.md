@@ -35,7 +35,8 @@ Kate’s goal is to identify the length of time that bikes are checked out for a
 # Summary
 Kate’s analysis of the bikesharing data was inspired after she took a trip in NYC and saw how convenient and timesaving it was to have this transit mode available. Also, this is a business model that can be replicated in different cities including Des Moines with a focus in local market. In order to attract investors, Kate prepared a compelling story created by Tableau visualization tool. <b>
 - This story combines all the visualization charts in one place to tell compelling story of why ponention investors consider her business proposal<br>
-[link to dashboard] (https://public.tableau.com/app/profile/mohamed.isse/viz/NYCCitibikeAnalysis_16626145304770/NYCCitibikeAnalysis)
+
+[link to dashboard] (https://public.tableau.com/app/profile/mohamed.isse/viz/NYCCitibikeAnalysis_16626145304770/NYCCitibikeAnalysis)<br>
 	
 
 
