@@ -40,16 +40,16 @@ Kate’s analysis of the bikesharing data was inspired after she took a trip in 
 
 
 ## Links to images:
-Checkout Times for Users Chart[CheckoutTimesforUsers.png](https://github.com/bariir/bikesharing/blob/main/Resources/CheckoutTimesforUsers.png?raw=true)<br>
+Checkout Times for Users Chart[CheckoutTimesforUsers.png] (https://github.com/bariir/bikesharing/blob/main/Resources/CheckoutTimesforUsers.png?raw=true)<br>
 
-Checkout Times by Gender[CheckoutTimesbyGender.png]( https://github.com/bariir/bikesharing/blob/main/Resources/CheckoutTimesbyGender.png?raw=true)<br>
+Checkout Times by Gender[CheckoutTimesbyGender.png] ( https://github.com/bariir/bikesharing/blob/main/Resources/CheckoutTimesbyGender.png?raw=true)<br>
 
-Trips by Weekday for Each Hour[TripsbyWeekdayforEachHour.png]( https://github.com/bariir/bikesharing/blob/main/Resources/TripsbyWeekdayforEachHour.png?raw=true)<br>
+Trips by Weekday for Each Hour[TripsbyWeekdayforEachHour.png] ( https://github.com/bariir/bikesharing/blob/main/Resources/TripsbyWeekdayforEachHour.png?raw=true)<br>
 
-Trips by Gender(Weekday per Hour)[ TripsbyGender(WeekdayperHour).png](https://github.com/bariir/bikesharing/blob/main/Resources/TripsbyGender(WeekdayperHour).png?raw=true)<br>
+Trips by Gender(Weekday per Hour)[ TripsbyGender(WeekdayperHour).png] (https://github.com/bariir/bikesharing/blob/main/Resources/TripsbyGender(WeekdayperHour).png?raw=true)<br>
 
-User Trips by Gender by Weekday[UserTripsbyGenderbyWeekday.png](https://github.com/bariir/bikesharing/blob/main/Resources/UserTripsbyGenderbyWeekday.png?raw=true)<br>
+User Trips by Gender by Weekday[UserTripsbyGenderbyWeekday.png] (https://github.com/bariir/bikesharing/blob/main/Resources/UserTripsbyGenderbyWeekday.png?raw=true)<br>
 
-Average Trip Duration[AverageTripDuration.png](https://github.com/bariir/bikesharing/blob/main/Resources/AverageTripDuration.png?raw=true)<br>
+Average Trip Duration[AverageTripDuration.png] (https://github.com/bariir/bikesharing/blob/main/Resources/AverageTripDuration.png?raw=true)<br>
 
-Bike Utilization[BikeUtilization.png](https://github.com/bariir/bikesharing/blob/main/Resources/BikeUtilization.png?raw=true)<br>
+Bike Utilization[BikeUtilization.png] (https://github.com/bariir/bikesharing/blob/main/Resources/BikeUtilization.png?raw=true)<br>
