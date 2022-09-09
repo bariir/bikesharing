@@ -12,4 +12,4 @@ The purpose of this bikesharing analysis is based on Kate’s need to tailor NYC
 Kate’s goal is to identify the length of time that bikes are checked out for all riders and genders. Show the number of bike trips for all riders and genders for each hour of each day of the week and finally, show the number of bike trips for each type of user and gender for each day of the week. All of these data points will be used in her analysis to create stunning and compelling stories using Tableau visualization tool.
 
 - The first visualization chart in this bikeshare analysis is Checkout Times for Users.<br>
-![Top 10 Bacteria Bar Chart](Resources/https://github.com/bariir/bikesharing/blob/main/Resources/CheckoutTimesforUsers.png)<br>
+![Top 10 Bacteria Bar Chart](/Resources/https://github.com/bariir/bikesharing/blob/main/Resources/CheckoutTimesforUsers.png)<br>
